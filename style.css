@@ -47,7 +47,7 @@ p {
 
 .floatleft {
   float: left;
-  background-color: #ffffff; 
+  background-color: #ebebeb; 
   margin-right: 20px;
 }
 
@@ -62,7 +62,7 @@ p {
 .info {
     margin: 10px auto;
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #ebebeb;
     color: #777;
     /* width: 90%; */
 }
